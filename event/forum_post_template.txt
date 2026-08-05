@@ -61,13 +61,13 @@
 - [URL="https://www.ead.eurocontrol.int/cms-eadbasic/opencms/en/login/ead-basic/"]Philipines eAIP[/URL]. Please register a free account, and access it through EAD Basic.
 - [URL="https://aim.koca.go.kr/eaipPub/Package/history-en-GB.html"]South Korea eAIP[/URL]
 - [URL="https://ais.caa.gov.tw/eaip/"]Taiwan eAIP[/URL]
-- [URL="https://www.vnaic.vn/images/stories/vnaic.vn/SanPhamDichVu/AIPVietNam/AIP/history-en-GB.html"]Vietnam eAIP[/URL] (latest AIRAC ????)[/SIZE][/INDENT][/INDENT]
+- [URL="https://aim.vatm.vn/images/stories/vnaic.vn/SanPhamDichVu/AIPVietNam/AIP/history-en-GB.html"]Vietnam eAIP[/URL][/SIZE][/INDENT][/INDENT]
 
 [INDENT=2][SIZE=22px][B]Charts[/B][/SIZE]
 [INDENT][SIZE=18px][B]- ID:[/B] [URL="iwish.kemenhub.go.id"]iWish Indonesia[/URL]. Registering a free account is needed.
-[B]- IN:[/B] [URL="https://aim-india.aai.aero/eaip/"]India eAIP[/URL]
+[B]- IN:[/B] [URL="https://aim-india.aai.aero/"]India eAIP[/URL]
 [B]- TH:[/B] [URL="https://aip.caat.or.th/"]Thailand eAIP[/URL]
-[B]- XE:[/B] [URL="https://www.vnaic.vn/images/stories/vnaic.vn/SanPhamDichVu/AIPVietNam/AIP/2025-08-07-AIRAC/html/index-en-GB.html"]Vietnam eAIP[/URL] (latest AIRAC ????)[/SIZE][/INDENT][/INDENT]
+[B]- XE:[/B] [URL="https://aim.vatm.vn/images/stories/vnaic.vn/SanPhamDichVu/AIPVietNam/AIP/history-en-GB.html"]Vietnam eAIP[/URL][/SIZE][/INDENT][/INDENT]
 
 [CENTER][IMG width=95%]https://xe.ivao.aero/wordpress/wp-content/uploads/events-dep/event/template/forum_ATCInfo.png[/IMG][/CENTER]
 
@@ -89,21 +89,18 @@
 [/TR]
 [TR]
 [TD][IMG]https://www.ivao.aero/data/images/awardsdiv/PED.gif[/IMG][SIZE=22px][COLOR=#3C55AC][B]　Pilot Events Award[/B][/COLOR][/SIZE]
-[SIZE=18px][JUSTIFY]Pilots completing a flight with at least 1 hour flight time will gain +1 point. Legs should be reported to [URL="https://tours.th.ivao.aero/index.php?div=XE&point_tourid=220"]Division Tour System[/URL].[/JUSTIFY][/SIZE][/TD]
+[SIZE=18px][JUSTIFY]Pilots completing a flight {with at least 1 hour flight time} will gain +1 point. Legs should be reported to [URL="https://tours.th.ivao.aero/index.php?div=XE&point_tourid=220"]Division Tour System[/URL].
+
+Pilots completing a flight will gain +1 point. Legs should be reported to [URL="https://tours.th.ivao.aero/"]Division Tour System[/URL] of respective divisions. For example, if conducting a flight VTBS - VVTS, you can report to both TH & XE division.[/JUSTIFY][/SIZE][/TD]
 [TD]　[/TD]
 [TD][IMG]https://www.ivao.aero/data/images/awardsdiv/AED.gif[/IMG][SIZE=22px][COLOR=#3C55AC][B]　ATC Events Award[/B][/COLOR][/SIZE]
-[SIZE=18px][JUSTIFY]ATCs booking a slot in advance, and connecting for at least 2 hours will gain +1 point. Legs should be reported to [URL="https://tours.th.ivao.aero/index.php?div=XE&point_tourid=209"]Division Tour System[/URL].[/JUSTIFY][/SIZE][/TD]
-[/TR]
-[TR]
-[TD][IMG]https://www.ivao.aero/data/images/awardsdiv/PED.gif[/IMG][SIZE=22px][COLOR=#3C55AC][B]　Pilot Events Award[/B][/COLOR][/SIZE]
-[SIZE=18px][JUSTIFY]Pilots completing a flight will gain +1 point. Legs should be reported to [URL="https://tours.th.ivao.aero/"]Division Tour System[/URL] of respective divisions. For example, if conducting a flight VTBS - VVTS, you can report to both TH & XE division.[/JUSTIFY][/SIZE][/TD]
-[TD]　[/TD]
-[TD][IMG]https://www.ivao.aero/data/images/awardsdiv/AED.gif[/IMG][SIZE=22px][COLOR=#3C55AC][B]　ATC Events Award[/B][/COLOR][/SIZE]
-[SIZE=18px][JUSTIFY]ATCs booking a slot in advance, and connecting for at least 1 (TH, ID) / 2 (XE) hour(s) will gain +1 point. Legs should be reported to [URL="https://tours.th.ivao.aero/"]Division Tour System[/URL] of respective divisions.[/JUSTIFY][/SIZE][/TD]
+[SIZE=18px][JUSTIFY]ATCs booking a slot in advance, and connecting for at least 2 hours will gain +1 point. Legs should be reported to [URL="https://tours.th.ivao.aero/index.php?div=XE&point_tourid=209"]Division Tour System[/URL].
+
+ATCs booking a slot in advance, and connecting for at least 1 (TH, ID) / 2 (XE) hour(s) will gain +1 point. Legs should be reported to [URL="https://tours.th.ivao.aero/"]Division Tour System[/URL] of respective divisions.[/JUSTIFY][/SIZE][/TD]
 [/TR]
 [TR]
 [TD][IMG]https://www.ivao.aero/data/images/awards/EPD.gif[/IMG][SIZE=22px][COLOR=#3C55AC][B]　IVAO ESA - Pilot[/B][/COLOR][/SIZE]
-[SIZE=18px][JUSTIFY]Pilots completing a flight with at least 1 hour flight time will gain +1 point. Legs should be reported to [URL="http://hqe.ivao.aero"]hqe.ivao.aero[/URL].[/JUSTIFY][/SIZE][/TD]
+[SIZE=18px][JUSTIFY]Pilots completing a flight {with at least 1 hour flight time} will gain +1 point. Legs should be reported to [URL="http://hqe.ivao.aero"]hqe.ivao.aero[/URL].[/JUSTIFY][/SIZE][/TD]
 [TD]　[/TD]
 [TD][IMG]https://www.ivao.aero/data/images/awards/EAD.gif[/IMG][SIZE=22px][COLOR=#3C55AC][B]　IVAO ESA - ATC[/B][/COLOR][/SIZE]
 [SIZE=18px][JUSTIFY]ATCs booking a slot in advance, and connecting for at least 2 hours will gain +1 point. Legs should be reported to [URL="http://hqe.ivao.aero"]hqe.ivao.aero[/URL].[/JUSTIFY][/SIZE][/TD]
