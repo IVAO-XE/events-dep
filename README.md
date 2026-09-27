@@ -3,13 +3,12 @@
 ## Tree Structure
 ```
 ├── event/
-│	├── forum_icon.psd
-│	└── forum_post_template.txt
+│	├── forum-post-section-divider.psd
+│	└── forum-post-template.txt
 ├── online-day/
-|	├── banner_[region].psd: Original design file used in Adobe Photoshop
-|	└── banner_[region]_template.png: Banner without texts of location, date, time
+|	└── banner_[region].psd: Original design file
 └── tour/
-	├── past-tour/: pages of old tours
+	├── past-tour/: pages of past tours
 	├── tour_custom.css
 	├── tour_general.css
 	├── tour_gtr_template.html: General Tour Rules page
